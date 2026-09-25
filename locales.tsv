@@ -1,125 +1,136 @@
-slug	bcp47	endonym	name_en	iso639_1	iso639_3	script	region	direction
-af-001	af-001	Afrikaans	Afrikaans	af	afr	Latn	001	ltr
-am-001	am-001	አማርኛ	Amharic	am	amh	Ethi	001	ltr
-ar-001	ar-001	العربية	Arabic	ar	ara	Arab	001	rtl
-ar-eg	ar-EG	العربية (مصر)	Arabic (Egypt)	ar	ara	Arab	EG	rtl
-ar-sa	ar-SA	العربية (السعودية)	Arabic (Saudi Arabia)	ar	ara	Arab	SA	rtl
-as-001	as-001	অসমীয়া	Assamese	as	asm	Beng	001	ltr
-az-001	az-001	Azərbaycan dili	Azerbaijani	az	aze	Latn	001	ltr
-be-001	be-001	Беларуская	Belarusian	be	bel	Cyrl	001	ltr
-bg-001	bg-001	Български	Bulgarian	bg	bul	Cyrl	001	ltr
-bh-001	bh-001	भोजपुरी	Bhojpuri		bho	Deva	001	ltr
-bn-001	bn-001	বাংলা	Bengali	bn	ben	Beng	001	ltr
-bo-001	bo-001	བོད་སྐད་	Tibetan	bo	bod	Tibt	001	ltr
-bs-001	bs-001	Bosanski	Bosnian	bs	bos	Latn	001	ltr
-co-001	co-001	Corsu	Corsican	co	cos	Latn	001	ltr
-cs-001	cs-001	Čeština	Czech	cs	ces	Latn	001	ltr
-cy-001	cy-001	Cymraeg	Welsh	cy	cym	Latn	001	ltr
-da-001	da-001	Dansk	Danish	da	dan	Latn	001	ltr
-de-001	de-001	Deutsch	German	de	deu	Latn	001	ltr
-de-de	de-DE	Deutsch (Deutschland)	German (Germany)	de	deu	Latn	DE	ltr
-el-001	el-001	Ελληνικά	Greek	el	ell	Grek	001	ltr
-en-001	en-001	English	English	en	eng	Latn	001	ltr
-en-150	en-150	English (Europe)	English (Europe)	en	eng	Latn	150	ltr
-en-au	en-AU	English (Australia)	English (Australia)	en	eng	Latn	AU	ltr
-en-ca	en-CA	English (Canada)	English (Canada)	en	eng	Latn	CA	ltr
-en-gb	en-GB	English (Great Britain)	English (Great Britain)	en	eng	Latn	GB	ltr
-en-us	en-US	English (United States)	English (United States)	en	eng	Latn	US	ltr
-eo-001	eo-001	Esperanto	Esperanto	eo	epo	Latn	001	ltr
-es-001	es-001	Español	Spanish	es	spa	Latn	001	ltr
-es-419	es-419	Español (Latinoamérica)	Spanish (Latin America)	es	spa	Latn	419	ltr
-es-es	es-ES	Español (España)	Spanish (Spain)	es	spa	Latn	ES	ltr
-es-mx	es-MX	Español (México)	Spanish (Mexico)	es	spa	Latn	MX	ltr
-et-001	et-001	Eesti	Estonian	et	est	Latn	001	ltr
-eu-001	eu-001	Euskara	Basque	eu	eus	Latn	001	ltr
-fa-001	fa-001	فارسی	Persian	fa	fas	Arab	001	rtl
-fi-001	fi-001	Suomi	Finnish	fi	fin	Latn	001	ltr
-fil-001	fil-001	Filipino	Filipino		fil	Latn	001	ltr
-fr-001	fr-001	Français	French	fr	fra	Latn	001	ltr
-fr-ca	fr-CA	Français (Le Canada)	French (Canada)	fr	fra	Latn	CA	ltr
-fr-fr	fr-FR	Français (La France)	French (France)	fr	fra	Latn	FR	ltr
-fy-001	fy-001	Frysk	Frisian	fy	fry	Latn	001	ltr
-ga-001	ga-001	Gaeilge	Irish	ga	gle	Latn	001	ltr
-gd-001	gd-001	Gàidhlig	Scottish Gaelic	gd	gla	Latn	001	ltr
-gu-001	gu-001	ગુજરાતી	Gujarati	gu	guj	Gujr	001	ltr
-ha-001	ha-001	Harshen Hausa	Hausa	ha	hau	Latn	001	ltr
-he-001	he-001	עברית	Hebrew	he	heb	Hebr	001	rtl
-hi-001	hi-001	हिन्दी	Hindi	hi	hin	Deva	001	ltr
-hr-001	hr-001	Hrvatski	Croatian	hr	hrv	Latn	001	ltr
-hu-001	hu-001	Magyar	Hungarian	hu	hun	Latn	001	ltr
-hy-001	hy-001	Հայերեն	Armenian	hy	hye	Armn	001	ltr
-id-001	id-001	Bahasa Indonesia	Indonesian	id	ind	Latn	001	ltr
-ig-001	ig-001	Igbo	Igbo	ig	ibo	Latn	001	ltr
-is-001	is-001	Íslenska	Icelandic	is	isl	Latn	001	ltr
-it-001	it-001	Italiano	Italian	it	ita	Latn	001	ltr
-ja-001	ja-001	日本語	Japanese	ja	jpn	Jpan	001	ltr
-jv-001	jv-001	Basa Jawa	Javanese	jv	jav	Latn	001	ltr
-ka-001	ka-001	ქართული	Georgian	ka	kat	Geor	001	ltr
-kk-001	kk-001	Қазақ тілі	Kazakh	kk	kaz	Cyrl	001	ltr
-km-001	km-001	ខ្មែរ	Khmer	km	khm	Khmr	001	ltr
-kn-001	kn-001	ಕನ್ನಡ	Kannada	kn	kan	Knda	001	ltr
-ko-001	ko-001	한국어	Korean	ko	kor	Kore	001	ltr
-ku-001	ku-001	Kurdî	Kurdish	ku	kur	Latn	001	ltr
-ky-001	ky-001	Кыргызча	Kyrgyz	ky	kir	Cyrl	001	ltr
-la-001	la-001	Latina	Latin	la	lat	Latn	001	ltr
-lb-001	lb-001	Lëtzebuergesch	Luxembourgish	lb	ltz	Latn	001	ltr
-lo-001	lo-001	ລາວ	Lao	lo	lao	Laoo	001	ltr
-lt-001	lt-001	Lietuvių	Lithuanian	lt	lit	Latn	001	ltr
-lv-001	lv-001	Latviešu	Latvian	lv	lav	Latn	001	ltr
-mg-001	mg-001	Malagasy	Malagasy	mg	mlg	Latn	001	ltr
-mi-001	mi-001	Māori	Maori	mi	mri	Latn	001	ltr
-mk-001	mk-001	Македонски	Macedonian	mk	mkd	Cyrl	001	ltr
-ml-001	ml-001	മലയാളം	Malayalam	ml	mal	Mlym	001	ltr
-mn-001	mn-001	Монгол	Mongolian	mn	mon	Cyrl	001	ltr
-mr-001	mr-001	मराठी	Marathi	mr	mar	Deva	001	ltr
-ms-001	ms-001	Bahasa Melayu	Malay	ms	msa	Latn	001	ltr
-mt-001	mt-001	Malti	Maltese	mt	mlt	Latn	001	ltr
-my-001	my-001	မြန်မာစာ	Burmese	my	mya	Mymr	001	ltr
-ne-001	ne-001	नेपाली	Nepali	ne	nep	Deva	001	ltr
-nl-001	nl-001	Nederlands	Dutch	nl	nld	Latn	001	ltr
-no-001	no-001	Norsk	Norwegian	no	nor	Latn	001	ltr
-ny-001	ny-001	Chichewa	Chichewa	ny	nya	Latn	001	ltr
-or-001	or-001	ଓଡ଼ିଆ	Odia	or	ori	Orya	001	ltr
-pa-001	pa-001	ਪੰਜਾਬੀ	Punjabi	pa	pan	Guru	001	ltr
-pl-001	pl-001	Polski	Polish	pl	pol	Latn	001	ltr
-ps-001	ps-001	پښتو	Pashto	ps	pus	Arab	001	rtl
-pt-001	pt-001	Português	Portuguese	pt	por	Latn	001	ltr
-pt-br	pt-BR	Português (O Brasil)	Portuguese (Brazil)	pt	por	Latn	BR	ltr
-pt-pt	pt-PT	Português (Portugal)	Portuguese (Portugal)	pt	por	Latn	PT	ltr
-ro-001	ro-001	Română	Romanian	ro	ron	Latn	001	ltr
-ru-001	ru-001	Русский	Russian	ru	rus	Cyrl	001	ltr
-rw-001	rw-001	Ikinyarwanda	Kinyarwanda	rw	kin	Latn	001	ltr
-sa-001	sa-001	संस्कृतम्	Sanskrit	sa	san	Deva	001	ltr
-sd-001	sd-001	سنڌي	Sindhi	sd	snd	Arab	001	rtl
-si-001	si-001	සිංහල	Sinhala	si	sin	Sinh	001	ltr
-sk-001	sk-001	Slovenčina	Slovak	sk	slk	Latn	001	ltr
-sl-001	sl-001	Slovenščina	Slovenian	sl	slv	Latn	001	ltr
-sm-001	sm-001	Gagana Sāmoa	Samoan	sm	smo	Latn	001	ltr
-sn-001	sn-001	chiShona	Shona	sn	sna	Latn	001	ltr
-so-001	so-001	Soomaali	Somali	so	som	Latn	001	ltr
-sq-001	sq-001	Shqip	Albanian	sq	sqi	Latn	001	ltr
-sr-001	sr-001	Српски	Serbian	sr	srp	Cyrl	001	ltr
-st-001	st-001	Sesotho	Sesotho	st	sot	Latn	001	ltr
-sv-001	sv-001	Svenska	Swedish	sv	swe	Latn	001	ltr
-sw-001	sw-001	Kiswahili	Swahili	sw	swa	Latn	001	ltr
-ta-001	ta-001	தமிழ்	Tamil	ta	tam	Taml	001	ltr
-te-001	te-001	తెలుగు	Telugu	te	tel	Telu	001	ltr
-tg-001	tg-001	Тоҷикӣ	Tajik	tg	tgk	Cyrl	001	ltr
-th-001	th-001	ไทย	Thai	th	tha	Thai	001	ltr
-ti-001	ti-001	ትግርኛ	Tigrinya	ti	tir	Ethi	001	ltr
-tk-001	tk-001	Türkmençe	Turkmen	tk	tuk	Latn	001	ltr
-tr-001	tr-001	Türkçe	Turkish	tr	tur	Latn	001	ltr
-tt-001	tt-001	Татар теле	Tatar	tt	tat	Cyrl	001	ltr
-ug-001	ug-001	ئۇيغۇرچە	Uyghur	ug	uig	Arab	001	rtl
-uk-001	uk-001	Українська	Ukrainian	uk	ukr	Cyrl	001	ltr
-ur-001	ur-001	اردو	Urdu	ur	urd	Arab	001	rtl
-uz-001	uz-001	Oʻzbekcha	Uzbek	uz	uzb	Latn	001	ltr
-vi-001	vi-001	Tiếng Việt	Vietnamese	vi	vie	Latn	001	ltr
-xh-001	xh-001	isiXhosa	Xhosa	xh	xho	Latn	001	ltr
-yi-001	yi-001	ייִדיש	Yiddish	yi	yid	Hebr	001	rtl
-yo-001	yo-001	Yorùbá	Yoruba	yo	yor	Latn	001	ltr
-zh-001	zh-001	普通话	Chinese	zh	cmn	Hans	001	ltr
-zh-cn	zh-CN	简体中文 (中国)	Chinese (Simplified, China)	zh	cmn	Hans	CN	ltr
-zh-hk	zh-HK	繁體中文 (香港)	Chinese (Traditional, Hong Kong)	zh	cmn	Hant	HK	ltr
-zh-tw	zh-TW	繁體中文 (台灣)	Chinese (Traditional, Taiwan)	zh	cmn	Hant	TW	ltr
-zu-001	zu-001	isiZulu	Zulu	zu	zul	Latn	001	ltr
+lowercase_slug	bcp47	endonym	name_en	iso639_1	iso639_3	script	region	direction	L1	L2	L1+L2
+af-001	af-001	Afrikaans	Afrikaans	af	afr	Latn	001	ltr	7200000	10300000	17500000
+am-001	am-001	አማርኛ	Amharic	am	amh	Ethi	001	ltr	33700000	25100000	58800000
+ar-001	ar-001	العربية	Arabic	ar	ara	Arab	001	rtl	411000000	70000000	480000000
+ar-eg	ar-EG	العربية (مصر)	Arabic (Egypt)	ar	ara	Arab	EG	rtl	84000000	35000000	119000000
+ar-sa	ar-SA	العربية (السعودية)	Arabic (Saudi Arabia)	ar	ara	Arab	SA	rtl	27000000	3000000	30000000
+as-001	as-001	অসমীয়া	Assamese	as	asm	Beng	001	ltr	15000000	8300000	23300000
+az-001	az-001	Azərbaycan dili	Azerbaijani	az	aze	Latn	001	ltr	23000000	8000000	31000000
+be-001	be-001	Беларуская	Belarusian	be	bel	Cyrl	001	ltr	5000000	1300000	6300000
+bg-001	bg-001	Български	Bulgarian	bg	bul	Cyrl	001	ltr	6800000	1200000	7900000
+bh-001	bh-001	भोजपुरी	Bhojpuri		bho	Deva	001	ltr	52000000	5000000	57000000
+bn-001	bn-001	বাংলা	Bengali	bn	ben	Beng	001	ltr	242000000	43000000	284000000
+bn-bd	bn-BD	বাংলা (বাংলাদেশ)	Bengali (Bangladesh)	bn	ben	Beng	BD	ltr	165000000	5000000	170000000
+bo-001	bo-001	བོད་སྐད་	Tibetan	bo	bod	Tibt	001	ltr	5000000	1000000	6000000
+bs-001	bs-001	Bosanski	Bosnian	bs	bos	Latn	001	ltr	3100000	500000	3600000
+co-001	co-001	Corsu	Corsican	co	cos	Latn	001	ltr	150000	100000	250000
+cs-001	cs-001	Čeština	Czech	cs	ces	Latn	001	ltr	9800000	2700000	12000000
+cy-001	cy-001	Cymraeg	Welsh	cy	cym	Latn	001	ltr	562000	338000	900000
+da-001	da-001	Dansk	Danish	da	dan	Latn	001	ltr	5600000	300000	5900000
+de-001	de-001	Deutsch	German	de	deu	Latn	001	ltr	95000000	80000000	175000000
+de-de	de-DE	Deutsch (Deutschland)	German (Germany)	de	deu	Latn	DE	ltr	74000000	5600000	80000000
+el-001	el-001	Ελληνικά	Greek	el	ell	Grek	001	ltr	13500000	3000000	16500000
+en-001	en-001	English	English	en	eng	Latn	001	ltr	372000000	1121000000	1493000000
+en-150	en-150	English (Europe)	English (Europe)	en	eng	Latn	150	ltr	67000000	213000000	280000000
+en-au	en-AU	English (Australia)	English (Australia)	en	eng	Latn	AU	ltr	18000000	7000000	25000000
+en-ca	en-CA	English (Canada)	English (Canada)	en	eng	Latn	CA	ltr	20000000	10000000	30000000
+en-gb	en-GB	English (Great Britain)	English (Great Britain)	en	eng	Latn	GB	ltr	59300000	4400000	63700000
+en-us	en-US	English (United States)	English (United States)	en	eng	Latn	US	ltr	244000000	55000000	299000000
+eo-001	eo-001	Esperanto	Esperanto	eo	epo	Latn	001	ltr	2000	2000000	2002000
+es-001	es-001	Español	Spanish	es	spa	Latn	001	ltr	519000000	117000000	636000000
+es-419	es-419	Español (Latinoamérica)	Spanish (Latin America)	es	spa	Latn	419	ltr	400000000	25000000	425000000
+es-es	es-ES	Español (España)	Spanish (Spain)	es	spa	Latn	ES	ltr	44000000	4000000	48000000
+es-mx	es-MX	Español (México)	Spanish (Mexico)	es	spa	Latn	MX	ltr	120000000	8000000	128000000
+et-001	et-001	Eesti	Estonian	et	est	Latn	001	ltr	1100000	200000	1300000
+eu-001	eu-001	Euskara	Basque	eu	eus	Latn	001	ltr	750000	250000	1000000
+fa-001	fa-001	فارسی	Persian	fa	fas	Arab	001	rtl	91000000	35000000	127000000
+fi-001	fi-001	Suomi	Finnish	fi	fin	Latn	001	ltr	5200000	500000	5700000
+fil-001	fil-001	Filipino	Filipino		fil	Latn	001	ltr	29000000	54000000	83000000
+fr-001	fr-001	Français	French	fr	fra	Latn	001	ltr	75000000	258000000	334000000
+fr-ca	fr-CA	Français (Le Canada)	French (Canada)	fr	fra	Latn	CA	ltr	7800000	2900000	10700000
+fr-fr	fr-FR	Français (La France)	French (France)	fr	fra	Latn	FR	ltr	64000000	4000000	68000000
+fy-001	fy-001	Frysk	Frisian	fy	fry	Latn	001	ltr	450000	100000	550000
+ga-001	ga-001	Gaeilge	Irish	ga	gle	Latn	001	ltr	170000	1730000	1900000
+gd-001	gd-001	Gàidhlig	Scottish Gaelic	gd	gla	Latn	001	ltr	20000	70000	90000
+gu-001	gu-001	ગુજરાતી	Gujarati	gu	guj	Gujr	001	ltr	58000000	5000000	62000000
+ha-001	ha-001	Harshen Hausa	Hausa	ha	hau	Latn	001	ltr	58000000	36000000	94000000
+ha-ng	ha-NG	Harshen Hausa (Najeriya)	Hausa (Nigeria)	ha	hau	Latn	NG	ltr	43000000	25000000	68000000
+he-001	he-001	עברית	Hebrew	he	heb	Hebr	001	rtl	6500000	4000000	10500000
+hi-001	hi-001	हिन्दी	Hindi	hi	hin	Deva	001	ltr	528000000	274000000	802000000
+hi-in	hi-IN	हिन्दी (भारत)	Hindi (India)	hi	hin	Deva	IN	ltr	528000000	139000000	667000000
+hr-001	hr-001	Hrvatski	Croatian	hr	hrv	Latn	001	ltr	5100000	1400000	6500000
+hu-001	hu-001	Magyar	Hungarian	hu	hun	Latn	001	ltr	12500000	1500000	14000000
+hy-001	hy-001	Հայերեն	Armenian	hy	hye	Armn	001	ltr	5300000	1400000	6700000
+id-001	id-001	Bahasa Indonesia	Indonesian	id	ind	Latn	001	ltr	76000000	180000000	256000000
+id-id	id-ID	Bahasa Indonesia (Indonesia)	Indonesian (Indonesia)	id	ind	Latn	ID	ltr	75000000	177000000	252000000
+ig-001	ig-001	Igbo	Igbo	ig	ibo	Latn	001	ltr	31000000	6000000	37000000
+is-001	is-001	Íslenska	Icelandic	is	isl	Latn	001	ltr	314000	50000	364000
+it-001	it-001	Italiano	Italian	it	ita	Latn	001	ltr	65000000	20000000	85000000
+ja-001	ja-001	日本語	Japanese	ja	jpn	Jpan	001	ltr	123000000	3000000	126000000
+jv-001	jv-001	Basa Jawa	Javanese	jv	jav	Latn	001	ltr	82000000	16000000	98000000
+ka-001	ka-001	ქართული	Georgian	ka	kat	Geor	001	ltr	3800000	1200000	5000000
+kk-001	kk-001	Қазақ тілі	Kazakh	kk	kaz	Cyrl	001	ltr	16000000	3000000	19000000
+km-001	km-001	ខ្មែរ	Khmer	km	khm	Khmr	001	ltr	19000000	1000000	21000000
+kn-001	kn-001	ಕನ್ನಡ	Kannada	kn	kan	Knda	001	ltr	44000000	15000000	59000000
+ko-001	ko-001	한국어	Korean	ko	kor	Kore	001	ltr	77000000	5000000	82000000
+ku-001	ku-001	Kurdî	Kurdish	ku	kur	Latn	001	ltr	29000000	6000000	35000000
+ky-001	ky-001	Кыргызча	Kyrgyz	ky	kir	Cyrl	001	ltr	5600000	700000	6300000
+la-001	la-001	Latina	Latin	la	lat	Latn	001	ltr	0	1000000	1000000
+lb-001	lb-001	Lëtzebuergesch	Luxembourgish	lb	ltz	Latn	001	ltr	400000	200000	600000
+lo-001	lo-001	ລາວ	Lao	lo	lao	Laoo	001	ltr	3400000	800000	4200000
+lt-001	lt-001	Lietuvių	Lithuanian	lt	lit	Latn	001	ltr	4000000	500000	4500000
+lv-001	lv-001	Latviešu	Latvian	lv	lav	Latn	001	ltr	1500000	600000	2100000
+mg-001	mg-001	Malagasy	Malagasy	mg	mlg	Latn	001	ltr	25000000	2000000	27000000
+mi-001	mi-001	Māori	Maori	mi	mri	Latn	001	ltr	50000	150000	200000
+mk-001	mk-001	Македонски	Macedonian	mk	mkd	Cyrl	001	ltr	1700000	1800000	3500000
+ml-001	ml-001	മലയാളം	Malayalam	ml	mal	Mlym	001	ltr	37000000	1000000	38000000
+mn-001	mn-001	Монгол	Mongolian	mn	mon	Cyrl	001	ltr	5700000	300000	6000000
+mr-001	mr-001	मराठी	Marathi	mr	mar	Deva	001	ltr	83100000	16000000	99100000
+mr-in	mr-IN	मराठी (भारत)	Marathi (India)	mr	mar	Deva	IN	ltr	83000000	16000000	99000000
+ms-001	ms-001	Bahasa Melayu	Malay	ms	msa	Latn	001	ltr	90000000	200000000	290000000
+mt-001	mt-001	Malti	Maltese	mt	mlt	Latn	001	ltr	520000	30000	550000
+my-001	my-001	မြန်မာစာ	Burmese	my	mya	Mymr	001	ltr	32900000	10000000	42900000
+ne-001	ne-001	नेपाली	Nepali	ne	nep	Deva	001	ltr	19000000	14000000	33000000
+nl-001	nl-001	Nederlands	Dutch	nl	nld	Latn	001	ltr	25000000	5000000	30000000
+no-001	no-001	Norsk	Norwegian	no	nor	Latn	001	ltr	4320000	420000	4740000
+ny-001	ny-001	Chichewa	Chichewa	ny	nya	Latn	001	ltr	12000000	4000000	16000000
+or-001	or-001	ଓଡ଼ିଆ	Odia	or	ori	Orya	001	ltr	34000000	4000000	38000000
+pa-001	pa-001	ਪੰਜਾਬੀ	Punjabi	pa	pan	Guru	001	ltr	113000000	37000000	150000000
+pcm-001	pcm-001	Naijá	Nigerian Pidgin		pcm	Latn	001	ltr	5000000	116000000	121000000
+pcm-ng	pcm-NG	Naijá (Nigeria)	Nigerian Pidgin (Nigeria)		pcm	Latn	NG	ltr	5000000	113000000	118000000
+pl-001	pl-001	Polski	Polish	pl	pol	Latn	001	ltr	40000000	3000000	43000000
+ps-001	ps-001	پښتو	Pashto	ps	pus	Arab	001	rtl	40000000	10000000	50000000
+pt-001	pt-001	Português	Portuguese	pt	por	Latn	001	ltr	230000000	30000000	260000000
+pt-br	pt-BR	Português (O Brasil)	Portuguese (Brazil)	pt	por	Latn	BR	ltr	203000000	3000000	206000000
+pt-pt	pt-PT	Português (Portugal)	Portuguese (Portugal)	pt	por	Latn	PT	ltr	10000000	500000	10500000
+ro-001	ro-001	Română	Romanian	ro	ron	Latn	001	ltr	24000000	4000000	28000000
+ru-001	ru-001	Русский	Russian	ru	rus	Cyrl	001	ltr	150000000	105000000	255000000
+ru-ru	ru-RU	Русский (Россия)	Russian (Russia)	ru	rus	Cyrl	RU	ltr	118000000	24000000	142000000
+rw-001	rw-001	Ikinyarwanda	Kinyarwanda	rw	kin	Latn	001	ltr	15000000	3000000	18000000
+sa-001	sa-001	संस्कृतम्	Sanskrit	sa	san	Deva	001	ltr	20000	5000000	5020000
+sd-001	sd-001	سنڌي	Sindhi	sd	snd	Arab	001	rtl	35000000	5000000	40000000
+si-001	si-001	සිංහල	Sinhala	si	sin	Sinh	001	ltr	18000000	2000000	20000000
+sk-001	sk-001	Slovenčina	Slovak	sk	slk	Latn	001	ltr	5000000	1000000	6000000
+sl-001	sl-001	Slovenščina	Slovenian	sl	slv	Latn	001	ltr	2500000	300000	2800000
+sm-001	sm-001	Gagana Sāmoa	Samoan	sm	smo	Latn	001	ltr	450000	60000	510000
+sn-001	sn-001	chiShona	Shona	sn	sna	Latn	001	ltr	10500000	3500000	14000000
+so-001	so-001	Soomaali	Somali	so	som	Latn	001	ltr	24000000	2000000	26000000
+sq-001	sq-001	Shqip	Albanian	sq	sqi	Latn	001	ltr	7500000	1000000	8500000
+sr-001	sr-001	Српски	Serbian	sr	srp	Cyrl	001	ltr	8200000	3800000	12000000
+st-001	st-001	Sesotho	Sesotho	st	sot	Latn	001	ltr	5600000	7900000	13500000
+sv-001	sv-001	Svenska	Swedish	sv	swe	Latn	001	ltr	10000000	3000000	13000000
+sw-001	sw-001	Kiswahili	Swahili	sw	swa	Latn	001	ltr	18000000	130000000	148000000
+sw-ke	sw-KE	Kiswahili (Kenya)	Swahili (Kenya)	sw	swa	Latn	KE	ltr	2000000	15000000	17000000
+sw-tz	sw-TZ	Kiswahili (Tanzania)	Swahili (Tanzania)	sw	swa	Latn	TZ	ltr	7000000	54000000	61000000
+ta-001	ta-001	தமிழ்	Tamil	ta	tam	Taml	001	ltr	79000000	7000000	86000000
+te-001	te-001	తెలుగు	Telugu	te	tel	Telu	001	ltr	83000000	13000000	96000000
+tg-001	tg-001	Тоҷикӣ	Tajik	tg	tgk	Cyrl	001	ltr	10500000	1500000	12000000
+th-001	th-001	ไทย	Thai	th	tha	Thai	001	ltr	27000000	44000000	71000000
+ti-001	ti-001	ትግርኛ	Tigrinya	ti	tir	Ethi	001	ltr	9900000	1100000	11000000
+tk-001	tk-001	Türkmençe	Turkmen	tk	tuk	Latn	001	ltr	6800000	1000000	7800000
+tr-001	tr-001	Türkçe	Turkish	tr	tur	Latn	001	ltr	85000000	6000000	91000000
+tt-001	tt-001	Татар теле	Tatar	tt	tat	Cyrl	001	ltr	5300000	1200000	6500000
+ug-001	ug-001	ئۇيغۇرچە	Uyghur	ug	uig	Arab	001	rtl	11000000	1500000	12500000
+uk-001	uk-001	Українська	Ukrainian	uk	ukr	Cyrl	001	ltr	32000000	6900000	39000000
+ur-001	ur-001	اردو	Urdu	ur	urd	Arab	001	rtl	78000000	230000000	308000000
+ur-pk	ur-PK	اردو (پاکستان)	Urdu (Pakistan)	ur	urd	Arab	PK	rtl	15000000	175000000	190000000
+uz-001	uz-001	Oʻzbekcha	Uzbek	uz	uzb	Latn	001	ltr	36000000	2000000	38000000
+vi-001	vi-001	Tiếng Việt	Vietnamese	vi	vie	Latn	001	ltr	86000000	11000000	97000000
+xh-001	xh-001	isiXhosa	Xhosa	xh	xho	Latn	001	ltr	8200000	11800000	20000000
+yi-001	yi-001	ייִדיש	Yiddish	yi	yid	Hebr	001	rtl	600000	400000	1000000
+yo-001	yo-001	Yorùbá	Yoruba	yo	yor	Latn	001	ltr	48000000	2000000	50000000
+zh-001	zh-001	普通话	Chinese	zh	cmn	Hans	001	ltr	941000000	260000000	1201000000
+zh-cn	zh-CN	简体中文 (中国)	Chinese (Simplified, China)	zh	cmn	Hans	CN	ltr	900000000	238000000	1138000000
+zh-hk	zh-HK	繁體中文 (香港)	Chinese (Traditional, Hong Kong)	zh	cmn	Hant	HK	ltr	6600000	410000	7000000
+zh-tw	zh-TW	繁體中文 (台灣)	Chinese (Traditional, Taiwan)	zh	cmn	Hant	TW	ltr	14000000	6600000	21000000
+zu-001	zu-001	isiZulu	Zulu	zu	zul	Latn	001	ltr	12000000	16000000	28000000
