@@ -120,7 +120,7 @@ fr-mc	fr-MC	Français - Monaco	French - Monaco	fr	fra	Latn	MC	ltr	15000	20000	35
 fy-001	fy-001	Frysk	Frisian	fy	fry	Latn	001	ltr	450000	100000	550000
 fy-nl	fy-NL	Frysk - Nederlân	Frisian - Netherlands	fy	fry	Latn	NL	ltr	450000	100000	550000
 ga-001	ga-001	Gaeilge	Irish	ga	gle	Latn	001	ltr	170000	1730000	1900000
-ga-IE	ga-001	Gaeilge - Irie	Irish - Ireland	ga	gle	Latn	001	ltr	170000	1730000	1900000
+ga-ie	ga-IE	Gaeilge - Éire	Irish - Ireland	ga	gle	Latn	IE	ltr	170000	1730000	1900000
 gd-001	gd-001	Gàidhlig	Scottish Gaelic	gd	gla	Latn	001	ltr	20000	70000	90000
 gd-gb	gd-GB	Gàidhlig - An Rìoghachd Aonaichte	Scottish Gaelic - United Kingdom	gd	gla	Latn	GB	ltr	20000	70000	90000
 gl-es	gl-ES	Galego - España	Galician - Spain	gl	glg	Latn	ES	ltr	2400000	1000000	3400000
