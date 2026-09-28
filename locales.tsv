@@ -1,136 +1,306 @@
 lowercase_slug	bcp47	endonym	name_en	iso639_1	iso639_3	script	region	direction	L1	L2	L1+L2
 af-001	af-001	Afrikaans	Afrikaans	af	afr	Latn	001	ltr	7200000	10300000	17500000
+af-za	af-ZA	Afrikaans - Suid-Afrika	Afrikaans - South Africa	af	afr	Latn	ZA	ltr	7000000	10000000	17000000
 am-001	am-001	አማርኛ	Amharic	am	amh	Ethi	001	ltr	33700000	25100000	58800000
+am-et	am-ET	አማርኛ - ኢትዮጵያ	Amharic - Ethiopia	am	amh	Ethi	ET	ltr	33000000	25000000	58000000
 ar-001	ar-001	العربية	Arabic	ar	ara	Arab	001	rtl	411000000	70000000	480000000
+ar-ae	ar-AE	العربية - الإمارات	Arabic - United Arab Emirates	ar	ara	Arab	AE	rtl	1200000	3000000	4200000
+ar-bh	ar-BH	العربية - البحرين	Arabic - Bahrain	ar	ara	Arab	BH	rtl	700000	300000	1000000
+ar-dz	ar-DZ	العربية - الجزائر	Arabic - Algeria	ar	ara	Arab	DZ	rtl	40000000	3000000	43000000
 ar-eg	ar-EG	العربية - مصر	Arabic - Egypt	ar	ara	Arab	EG	rtl	84000000	35000000	119000000
+ar-iq	ar-IQ	العربية - العراق	Arabic - Iraq	ar	ara	Arab	IQ	rtl	35000000	3000000	38000000
+ar-jo	ar-JO	العربية - الأردن	Arabic - Jordan	ar	ara	Arab	JO	rtl	10000000	500000	10500000
+ar-kw	ar-KW	العربية - الكويت	Arabic - Kuwait	ar	ara	Arab	KW	rtl	1500000	1500000	3000000
+ar-lb	ar-LB	العربية - لبنان	Arabic - Lebanon	ar	ara	Arab	LB	rtl	5000000	300000	5300000
+ar-ly	ar-LY	العربية - ليبيا	Arabic - Libya	ar	ara	Arab	LY	rtl	6500000	300000	6800000
+ar-ma	ar-MA	العربية - المغرب	Arabic - Morocco	ar	ara	Arab	MA	rtl	33000000	3000000	36000000
+ar-om	ar-OM	العربية - عُمان	Arabic - Oman	ar	ara	Arab	OM	rtl	2500000	1000000	3500000
+ar-qa	ar-QA	العربية - قطر	Arabic - Qatar	ar	ara	Arab	QA	rtl	500000	1000000	1500000
 ar-sa	ar-SA	العربية - السعودية	Arabic - Saudi Arabia	ar	ara	Arab	SA	rtl	27000000	3000000	30000000
+ar-sd	ar-SD	العربية - السودان	Arabic - Sudan	ar	ara	Arab	SD	rtl	32000000	8000000	40000000
+ar-sy	ar-SY	العربية - سوريا	Arabic - Syria	ar	ara	Arab	SY	rtl	18000000	1000000	19000000
+ar-tn	ar-TN	العربية - تونس	Arabic - Tunisia	ar	ara	Arab	TN	rtl	11000000	700000	11700000
+ar-ye	ar-YE	العربية - اليمن	Arabic - Yemen	ar	ara	Arab	YE	rtl	30000000	2000000	32000000
+arn-cl	arn-CL	Mapudungun - Chile	Mapudungun - Chile		arn	Latn	CL	ltr	200000	50000	250000
 as-001	as-001	অসমীয়া	Assamese	as	asm	Beng	001	ltr	15000000	8300000	23300000
+as-in	as-IN	অসমীয়া - ভাৰত	Assamese - India	as	asm	Beng	IN	ltr	15000000	8000000	23000000
 az-001	az-001	Azərbaycan dili	Azerbaijani	az	aze	Latn	001	ltr	23000000	8000000	31000000
+ba-ru	ba-RU	Башҡорт теле - Россия	Bashkir - Russia	ba	bak	Cyrl	RU	ltr	1200000	300000	1500000
 be-001	be-001	Беларуская	Belarusian	be	bel	Cyrl	001	ltr	5000000	1300000	6300000
+be-by	be-BY	Беларуская - Беларусь	Belarusian - Belarus	be	bel	Cyrl	BY	ltr	5000000	1300000	6300000
 bg-001	bg-001	Български	Bulgarian	bg	bul	Cyrl	001	ltr	6800000	1200000	7900000
+bg-bg	bg-BG	Български - България	Bulgarian - Bulgaria	bg	bul	Cyrl	BG	ltr	6800000	1200000	7900000
 bh-001	bh-001	भोजपुरी	Bhojpuri		bho	Deva	001	ltr	52000000	5000000	57000000
 bn-001	bn-001	বাংলা	Bengali	bn	ben	Beng	001	ltr	242000000	43000000	284000000
 bn-bd	bn-BD	বাংলা - বাংলাদেশ	Bengali - Bangladesh	bn	ben	Beng	BD	ltr	165000000	5000000	170000000
+bn-in	bn-IN	বাংলা - ভারত	Bengali - India	bn	ben	Beng	IN	ltr	85000000	38000000	123000000
 bo-001	bo-001	བོད་སྐད་	Tibetan	bo	bod	Tibt	001	ltr	5000000	1000000	6000000
+bo-cn	bo-CN	བོད་སྐད་ - ཀྲུང་གོ	Tibetan - China	bo	bod	Tibt	CN	ltr	5000000	1000000	6000000
+br-fr	br-FR	Brezhoneg - Frañs	Breton - France	br	bre	Latn	FR	ltr	200000	200000	400000
 bs-001	bs-001	Bosanski	Bosnian	bs	bos	Latn	001	ltr	3100000	500000	3600000
+ca-es	ca-ES	Català - Espanya	Catalan - Spain	ca	cat	Latn	ES	ltr	4000000	6000000	10000000
 co-001	co-001	Corsu	Corsican	co	cos	Latn	001	ltr	150000	100000	250000
+co-fr	co-FR	Corsu - Francia	Corsican - France	co	cos	Latn	FR	ltr	150000	100000	250000
 cs-001	cs-001	Čeština	Czech	cs	ces	Latn	001	ltr	9800000	2700000	12000000
+cs-cz	cs-CZ	Čeština - Česko	Czech - Czech Republic	cs	ces	Latn	CZ	ltr	9800000	2700000	12000000
 cy-001	cy-001	Cymraeg	Welsh	cy	cym	Latn	001	ltr	562000	338000	900000
+cy-gb	cy-GB	Cymraeg - y Deyrnas Unedig	Welsh - United Kingdom	cy	cym	Latn	GB	ltr	562000	338000	900000
 da-001	da-001	Dansk	Danish	da	dan	Latn	001	ltr	5600000	300000	5900000
+da-dk	da-DK	Dansk - Danmark	Danish - Denmark	da	dan	Latn	DK	ltr	5600000	300000	5900000
 de-001	de-001	Deutsch	German	de	deu	Latn	001	ltr	95000000	80000000	175000000
+de-at	de-AT	Deutsch - Österreich	German - Austria	de	deu	Latn	AT	ltr	8800000	200000	9000000
+de-ch	de-CH	Deutsch - Schweiz	German - Switzerland	de	deu	Latn	CH	ltr	5600000	500000	6100000
 de-de	de-DE	Deutsch - Deutschland	German - Germany	de	deu	Latn	DE	ltr	74000000	5600000	80000000
+de-li	de-LI	Deutsch - Liechtenstein	German - Liechtenstein	de	deu	Latn	LI	ltr	35000	4000	39000
+de-lu	de-LU	Deutsch - Luxemburg	German - Luxembourg	de	deu	Latn	LU	ltr	5000	450000	455000
+dsb-de	dsb-DE	Dolnoserbšćina - Nimska	Lower Sorbian - Germany		dsb	Latn	DE	ltr	7000	3000	10000
+dv-mv	dv-MV	ދިވެހި - ދިވެހިރާއްޖެ	Divehi - Maldives	dv	div	Thaa	MV	rtl	340000	30000	370000
 el-001	el-001	Ελληνικά	Greek	el	ell	Grek	001	ltr	13500000	3000000	16500000
+el-cy	el-CY	Ελληνικά - Κύπρος	Greek - Cyprus	el	ell	Grek	CY	ltr	650000	100000	750000
+el-gr	el-GR	Ελληνικά - Ελλάδα	Greek - Greece	el	ell	Grek	GR	ltr	10500000	2000000	12500000
 en-001	en-001	English	English	en	eng	Latn	001	ltr	372000000	1121000000	1493000000
 en-150	en-150	English - Europe	English - Europe	en	eng	Latn	150	ltr	67000000	213000000	280000000
 en-au	en-AU	English - Australia	English - Australia	en	eng	Latn	AU	ltr	18000000	7000000	25000000
+en-bz	en-BZ	English - Belize	English - Belize	en	eng	Latn	BZ	ltr	180000	150000	330000
 en-ca	en-CA	English - Canada	English - Canada	en	eng	Latn	CA	ltr	20000000	10000000	30000000
 en-gb	en-GB	English - Great Britain	English - Great Britain	en	eng	Latn	GB	ltr	59300000	4400000	63700000
+en-ie	en-IE	English - Ireland	English - Ireland	en	eng	Latn	IE	ltr	4200000	600000	4800000
+en-in	en-IN	English - India	English - India	en	eng	Latn	IN	ltr	300000	125000000	125300000
+en-jm	en-JM	English - Jamaica	English - Jamaica	en	eng	Latn	JM	ltr	2500000	200000	2700000
+en-mt	en-MT	English - Malta	English - Malta	en	eng	Latn	MT	ltr	5000	400000	405000
+en-my	en-MY	English - Malaysia	English - Malaysia	en	eng	Latn	MY	ltr	380000	9000000	9380000
+en-nz	en-NZ	English - New Zealand	English - New Zealand	en	eng	Latn	NZ	ltr	4500000	500000	5000000
+en-ph	en-PH	English - Philippines	English - Philippines	en	eng	Latn	PH	ltr	3400000	60000000	63400000
+en-sg	en-SG	English - Singapore	English - Singapore	en	eng	Latn	SG	ltr	1800000	3000000	4800000
+en-tt	en-TT	English - Trinidad and Tobago	English - Trinidad and Tobago	en	eng	Latn	TT	ltr	1200000	100000	1300000
 en-us	en-US	English - United States	English - United States	en	eng	Latn	US	ltr	244000000	55000000	299000000
+en-za	en-ZA	English - South Africa	English - South Africa	en	eng	Latn	ZA	ltr	4900000	11000000	15900000
+en-zw	en-ZW	English - Zimbabwe	English - Zimbabwe	en	eng	Latn	ZW	ltr	250000	5000000	5250000
 eo-001	eo-001	Esperanto	Esperanto	eo	epo	Latn	001	ltr	2000	2000000	2002000
 es-001	es-001	Español	Spanish	es	spa	Latn	001	ltr	519000000	117000000	636000000
 es-419	es-419	Español - Latinoamérica	Spanish - Latin America	es	spa	Latn	419	ltr	400000000	25000000	425000000
+es-ar	es-AR	Español - Argentina	Spanish - Argentina	es	spa	Latn	AR	ltr	43000000	2000000	45000000
+es-bo	es-BO	Español - Bolivia	Spanish - Bolivia	es	spa	Latn	BO	ltr	8000000	3000000	11000000
+es-cl	es-CL	Español - Chile	Spanish - Chile	es	spa	Latn	CL	ltr	18000000	1000000	19000000
+es-co	es-CO	Español - Colombia	Spanish - Colombia	es	spa	Latn	CO	ltr	50000000	1500000	51500000
+es-cr	es-CR	Español - Costa Rica	Spanish - Costa Rica	es	spa	Latn	CR	ltr	4900000	200000	5100000
+es-do	es-DO	Español - República Dominicana	Spanish - Dominican Republic	es	spa	Latn	DO	ltr	10800000	300000	11100000
+es-ec	es-EC	Español - Ecuador	Spanish - Ecuador	es	spa	Latn	EC	ltr	16500000	1000000	17500000
 es-es	es-ES	Español - España	Spanish - Spain	es	spa	Latn	ES	ltr	44000000	4000000	48000000
+es-gt	es-GT	Español - Guatemala	Spanish - Guatemala	es	spa	Latn	GT	ltr	12000000	4000000	16000000
+es-hn	es-HN	Español - Honduras	Spanish - Honduras	es	spa	Latn	HN	ltr	9800000	300000	10100000
 es-mx	es-MX	Español - México	Spanish - Mexico	es	spa	Latn	MX	ltr	120000000	8000000	128000000
+es-ni	es-NI	Español - Nicaragua	Spanish - Nicaragua	es	spa	Latn	NI	ltr	6500000	200000	6700000
+es-pa	es-PA	Español - Panamá	Spanish - Panama	es	spa	Latn	PA	ltr	4000000	300000	4300000
+es-pe	es-PE	Español - Perú	Spanish - Peru	es	spa	Latn	PE	ltr	27000000	5000000	32000000
+es-pr	es-PR	Español - Puerto Rico	Spanish - Puerto Rico	es	spa	Latn	PR	ltr	3000000	150000	3150000
+es-py	es-PY	Español - Paraguay	Spanish - Paraguay	es	spa	Latn	PY	ltr	4500000	2000000	6500000
+es-sv	es-SV	Español - El Salvador	Spanish - El Salvador	es	spa	Latn	SV	ltr	6100000	150000	6250000
+es-us	es-US	Español - Estados Unidos	Spanish - United States	es	spa	Latn	US	ltr	41000000	15000000	56000000
+es-uy	es-UY	Español - Uruguay	Spanish - Uruguay	es	spa	Latn	UY	ltr	3400000	100000	3500000
+es-ve	es-VE	Español - Venezuela	Spanish - Venezuela	es	spa	Latn	VE	ltr	27000000	1000000	28000000
 et-001	et-001	Eesti	Estonian	et	est	Latn	001	ltr	1100000	200000	1300000
+et-ee	et-EE	Eesti - Eesti	Estonian - Estonia	et	est	Latn	EE	ltr	1100000	200000	1300000
 eu-001	eu-001	Euskara	Basque	eu	eus	Latn	001	ltr	750000	250000	1000000
+eu-es	eu-ES	Euskara - Espainia	Basque - Spain	eu	eus	Latn	ES	ltr	750000	250000	1000000
 fa-001	fa-001	فارسی	Persian	fa	fas	Arab	001	rtl	91000000	35000000	127000000
+fa-ir	fa-IR	فارسی - ایران	Persian - Iran	fa	fas	Arab	IR	rtl	71000000	20000000	91000000
 fi-001	fi-001	Suomi	Finnish	fi	fin	Latn	001	ltr	5200000	500000	5700000
+fi-fi	fi-FI	Suomi - Suomi	Finnish - Finland	fi	fin	Latn	FI	ltr	5200000	500000	5700000
 fil-001	fil-001	Filipino	Filipino		fil	Latn	001	ltr	29000000	54000000	83000000
+fil-ph	fil-PH	Filipino - Pilipinas	Filipino - Philippines		fil	Latn	PH	ltr	29000000	54000000	83000000
+fo-fo	fo-FO	Føroyskt - Føroyar	Faroese - Faroe Islands	fo	fao	Latn	FO	ltr	48000	25000	73000
 fr-001	fr-001	Français	French	fr	fra	Latn	001	ltr	75000000	258000000	334000000
+fr-be	fr-BE	Français - Belgique	French - Belgium	fr	fra	Latn	BE	ltr	4500000	1500000	6000000
 fr-ca	fr-CA	Français - Le Canada	French - Canada	fr	fra	Latn	CA	ltr	7800000	2900000	10700000
+fr-ch	fr-CH	Français - Suisse	French - Switzerland	fr	fra	Latn	CH	ltr	2000000	300000	2300000
 fr-fr	fr-FR	Français - La France	French - France	fr	fra	Latn	FR	ltr	64000000	4000000	68000000
+fr-lu	fr-LU	Français - Luxembourg	French - Luxembourg	fr	fra	Latn	LU	ltr	15000	400000	415000
+fr-mc	fr-MC	Français - Monaco	French - Monaco	fr	fra	Latn	MC	ltr	15000	20000	35000
 fy-001	fy-001	Frysk	Frisian	fy	fry	Latn	001	ltr	450000	100000	550000
+fy-nl	fy-NL	Frysk - Nederlân	Frisian - Netherlands	fy	fry	Latn	NL	ltr	450000	100000	550000
 ga-001	ga-001	Gaeilge	Irish	ga	gle	Latn	001	ltr	170000	1730000	1900000
+ga-IE	ga-001	Gaeilge - Irie	Irish - Ireland	ga	gle	Latn	001	ltr	170000	1730000	1900000
 gd-001	gd-001	Gàidhlig	Scottish Gaelic	gd	gla	Latn	001	ltr	20000	70000	90000
+gd-gb	gd-GB	Gàidhlig - An Rìoghachd Aonaichte	Scottish Gaelic - United Kingdom	gd	gla	Latn	GB	ltr	20000	70000	90000
+gl-es	gl-ES	Galego - España	Galician - Spain	gl	glg	Latn	ES	ltr	2400000	1000000	3400000
+gsw-fr	gsw-FR	Elsässisch - Frankreich	Alsatian - France		gsw	Latn	FR	ltr	900000	100000	1000000
 gu-001	gu-001	ગુજરાતી	Gujarati	gu	guj	Gujr	001	ltr	58000000	5000000	62000000
 ha-001	ha-001	Harshen Hausa	Hausa	ha	hau	Latn	001	ltr	58000000	36000000	94000000
 ha-ng	ha-NG	Harshen Hausa - Najeriya	Hausa - Nigeria	ha	hau	Latn	NG	ltr	43000000	25000000	68000000
 he-001	he-001	עברית	Hebrew	he	heb	Hebr	001	rtl	6500000	4000000	10500000
+he-il	he-IL	עברית - ישראל	Hebrew - Israel	he	heb	Hebr	IL	rtl	6500000	4000000	10500000
 hi-001	hi-001	हिन्दी	Hindi	hi	hin	Deva	001	ltr	528000000	274000000	802000000
 hi-in	hi-IN	हिन्दी - भारत	Hindi - India	hi	hin	Deva	IN	ltr	528000000	139000000	667000000
 hr-001	hr-001	Hrvatski	Croatian	hr	hrv	Latn	001	ltr	5100000	1400000	6500000
+hr-ba	hr-BA	Hrvatski - Bosna i Hercegovina	Croatian - Bosnia and Herzegovina	hr	hrv	Latn	BA	ltr	400000	100000	500000
+hr-hr	hr-HR	Hrvatski - Hrvatska	Croatian - Croatia	hr	hrv	Latn	HR	ltr	3900000	300000	4200000
+hsb-de	hsb-DE	Hornjoserbšćina - Němska	Upper Sorbian - Germany		hsb	Latn	DE	ltr	13000	7000	20000
 hu-001	hu-001	Magyar	Hungarian	hu	hun	Latn	001	ltr	12500000	1500000	14000000
+hu-hu	hu-HU	Magyar - Magyarország	Hungarian - Hungary	hu	hun	Latn	HU	ltr	9300000	500000	9800000
 hy-001	hy-001	Հայերեն	Armenian	hy	hye	Armn	001	ltr	5300000	1400000	6700000
+hy-am	hy-AM	Հայերեն - Հայաստան	Armenian - Armenia	hy	hye	Armn	AM	ltr	2900000	200000	3100000
 id-001	id-001	Bahasa Indonesia	Indonesian	id	ind	Latn	001	ltr	76000000	180000000	256000000
 id-id	id-ID	Bahasa Indonesia - Indonesia	Indonesian - Indonesia	id	ind	Latn	ID	ltr	75000000	177000000	252000000
 ig-001	ig-001	Igbo	Igbo	ig	ibo	Latn	001	ltr	31000000	6000000	37000000
+ig-ng	ig-NG	Igbo - Naịjịrịa	Igbo - Nigeria	ig	ibo	Latn	NG	ltr	31000000	6000000	37000000
+ii-cn	ii-CN	ꆈꌠꉙ - ꍏꉸ	Yi - China	ii	iii	Yiii	CN	ltr	2000000	200000	2200000
 is-001	is-001	Íslenska	Icelandic	is	isl	Latn	001	ltr	314000	50000	364000
+is-is	is-IS	Íslenska - Ísland	Icelandic - Iceland	is	isl	Latn	IS	ltr	314000	50000	364000
 it-001	it-001	Italiano	Italian	it	ita	Latn	001	ltr	65000000	20000000	85000000
+it-ch	it-CH	Italiano - Svizzera	Italian - Switzerland	it	ita	Latn	CH	ltr	700000	300000	1000000
+it-it	it-IT	Italiano - Italia	Italian - Italy	it	ita	Latn	IT	ltr	55000000	3000000	58000000
 ja-001	ja-001	日本語	Japanese	ja	jpn	Jpan	001	ltr	123000000	3000000	126000000
+ja-jp	ja-JP	日本語 - 日本	Japanese - Japan	ja	jpn	Jpan	JP	ltr	123000000	2000000	125000000
 jv-001	jv-001	Basa Jawa	Javanese	jv	jav	Latn	001	ltr	82000000	16000000	98000000
 ka-001	ka-001	ქართული	Georgian	ka	kat	Geor	001	ltr	3800000	1200000	5000000
+ka-ge	ka-GE	ქართული - საქართველო	Georgian - Georgia	ka	kat	Geor	GE	ltr	3800000	1200000	5000000
 kk-001	kk-001	Қазақ тілі	Kazakh	kk	kaz	Cyrl	001	ltr	16000000	3000000	19000000
+kk-kz	kk-KZ	Қазақ тілі - Қазақстан	Kazakh - Kazakhstan	kk	kaz	Cyrl	KZ	ltr	16000000	3000000	19000000
+kl-gl	kl-GL	Kalaallisut - Kalaallit Nunaat	Greenlandic - Greenland	kl	kal	Latn	GL	ltr	50000	7000	57000
 km-001	km-001	ខ្មែរ	Khmer	km	khm	Khmr	001	ltr	19000000	1000000	21000000
+km-kh	km-KH	ខ្មែរ - កម្ពុជា	Khmer - Cambodia	km	khm	Khmr	KH	ltr	19000000	1000000	20000000
 kn-001	kn-001	ಕನ್ನಡ	Kannada	kn	kan	Knda	001	ltr	44000000	15000000	59000000
+kn-in	kn-IN	ಕನ್ನಡ - ಭಾರತ	Kannada - India	kn	kan	Knda	IN	ltr	44000000	15000000	59000000
 ko-001	ko-001	한국어	Korean	ko	kor	Kore	001	ltr	77000000	5000000	82000000
+ko-kr	ko-KR	한국어 - 대한민국	Korean - Korea	ko	kor	Kore	KR	ltr	51000000	1000000	52000000
+kok-in	kok-IN	कोंकणी - भारत	Konkani - India		kok	Deva	IN	ltr	2300000	500000	2800000
 ku-001	ku-001	Kurdî	Kurdish	ku	kur	Latn	001	ltr	29000000	6000000	35000000
 ky-001	ky-001	Кыргызча	Kyrgyz	ky	kir	Cyrl	001	ltr	5600000	700000	6300000
+ky-kg	ky-KG	Кыргызча - Кыргызстан	Kyrgyz - Kyrgyzstan	ky	kir	Cyrl	KG	ltr	5600000	700000	6300000
 la-001	la-001	Latina	Latin	la	lat	Latn	001	ltr	0	1000000	1000000
 lb-001	lb-001	Lëtzebuergesch	Luxembourgish	lb	ltz	Latn	001	ltr	400000	200000	600000
+lb-lu	lb-LU	Lëtzebuergesch - Lëtzebuerg	Luxembourgish - Luxembourg	lb	ltz	Latn	LU	ltr	400000	200000	600000
 lo-001	lo-001	ລາວ	Lao	lo	lao	Laoo	001	ltr	3400000	800000	4200000
+lo-la	lo-LA	ລາວ - ລາວ	Lao - Laos	lo	lao	Laoo	LA	ltr	3400000	800000	4200000
 lt-001	lt-001	Lietuvių	Lithuanian	lt	lit	Latn	001	ltr	4000000	500000	4500000
+lt-lt	lt-LT	Lietuvių - Lietuva	Lithuanian - Lithuania	lt	lit	Latn	LT	ltr	4000000	500000	4500000
 lv-001	lv-001	Latviešu	Latvian	lv	lav	Latn	001	ltr	1500000	600000	2100000
+lv-lv	lv-LV	Latviešu - Latvija	Latvian - Latvia	lv	lav	Latn	LV	ltr	1500000	600000	2100000
 mg-001	mg-001	Malagasy	Malagasy	mg	mlg	Latn	001	ltr	25000000	2000000	27000000
 mi-001	mi-001	Māori	Maori	mi	mri	Latn	001	ltr	50000	150000	200000
+mi-nz	mi-NZ	Māori - Aotearoa	Maori - New Zealand	mi	mri	Latn	NZ	ltr	50000	150000	200000
 mk-001	mk-001	Македонски	Macedonian	mk	mkd	Cyrl	001	ltr	1700000	1800000	3500000
+mk-mk	mk-MK	Македонски - Северна Македонија	Macedonian - North Macedonia	mk	mkd	Cyrl	MK	ltr	1700000	1800000	3500000
 ml-001	ml-001	മലയാളം	Malayalam	ml	mal	Mlym	001	ltr	37000000	1000000	38000000
+ml-in	ml-IN	മലയാളം - ഭാരതം	Malayalam - India	ml	mal	Mlym	IN	ltr	37000000	1000000	38000000
 mn-001	mn-001	Монгол	Mongolian	mn	mon	Cyrl	001	ltr	5700000	300000	6000000
+mn-mn	mn-MN	Монгол - Монгол улс	Mongolian - Mongolia	mn	mon	Cyrl	MN	ltr	3300000	200000	3500000
+moh-ca	moh-CA	Kanien'kéha - Kanata	Mohawk - Canada		moh	Latn	CA	ltr	3000	7000	10000
 mr-001	mr-001	मराठी	Marathi	mr	mar	Deva	001	ltr	83100000	16000000	99100000
 mr-in	mr-IN	मराठी - भारत	Marathi - India	mr	mar	Deva	IN	ltr	83000000	16000000	99000000
 ms-001	ms-001	Bahasa Melayu	Malay	ms	msa	Latn	001	ltr	90000000	200000000	290000000
+ms-bn	ms-BN	Bahasa Melayu - Brunei	Malay - Brunei	ms	msa	Latn	BN	ltr	280000	150000	430000
+ms-my	ms-MY	Bahasa Melayu - Malaysia	Malay - Malaysia	ms	msa	Latn	MY	ltr	16000000	10000000	26000000
 mt-001	mt-001	Malti	Maltese	mt	mlt	Latn	001	ltr	520000	30000	550000
+mt-mt	mt-MT	Malti - Malta	Maltese - Malta	mt	mlt	Latn	MT	ltr	520000	30000	550000
 my-001	my-001	မြန်မာစာ	Burmese	my	mya	Mymr	001	ltr	32900000	10000000	42900000
+nb-no	nb-NO	Norsk Bokmål - Norge	Norwegian Bokmål - Norway	nb	nob	Latn	NO	ltr	4000000	400000	4400000
 ne-001	ne-001	नेपाली	Nepali	ne	nep	Deva	001	ltr	19000000	14000000	33000000
+ne-np	ne-NP	नेपाली - नेपाल	Nepali - Nepal	ne	nep	Deva	NP	ltr	19000000	14000000	33000000
 nl-001	nl-001	Nederlands	Dutch	nl	nld	Latn	001	ltr	25000000	5000000	30000000
+nl-be	nl-BE	Nederlands - België	Dutch - Belgium	nl	nld	Latn	BE	ltr	6500000	500000	7000000
+nl-nl	nl-NL	Nederlands - Nederland	Dutch - Netherlands	nl	nld	Latn	NL	ltr	17000000	800000	17800000
+nn-no	nn-NO	Norsk Nynorsk - Noreg	Norwegian Nynorsk - Norway	nn	nno	Latn	NO	ltr	600000	500000	1100000
 no-001	no-001	Norsk	Norwegian	no	nor	Latn	001	ltr	4320000	420000	4740000
+nso-za	nso-ZA	Sesotho sa Leboa - Afrika Borwa	Northern Sotho - South Africa		nso	Latn	ZA	ltr	4700000	5000000	9700000
 ny-001	ny-001	Chichewa	Chichewa	ny	nya	Latn	001	ltr	12000000	4000000	16000000
+oc-fr	oc-FR	Occitan - França	Occitan - France	oc	oci	Latn	FR	ltr	100000	500000	600000
 or-001	or-001	ଓଡ଼ିଆ	Odia	or	ori	Orya	001	ltr	34000000	4000000	38000000
+or-in	or-IN	ଓଡ଼ିଆ - ଭାରତ	Odia - India	or	ori	Orya	IN	ltr	34000000	4000000	38000000
 pa-001	pa-001	ਪੰਜਾਬੀ	Punjabi	pa	pan	Guru	001	ltr	113000000	37000000	150000000
+pa-in	pa-IN	ਪੰਜਾਬੀ - ਭਾਰਤ	Punjabi - India	pa	pan	Guru	IN	ltr	33000000	10000000	43000000
 pcm-001	pcm-001	Naijá	Nigerian Pidgin		pcm	Latn	001	ltr	5000000	116000000	121000000
 pcm-ng	pcm-NG	Naijá - Nigeria	Nigerian Pidgin - Nigeria		pcm	Latn	NG	ltr	5000000	113000000	118000000
 pl-001	pl-001	Polski	Polish	pl	pol	Latn	001	ltr	40000000	3000000	43000000
+pl-pl	pl-PL	Polski - Polska	Polish - Poland	pl	pol	Latn	PL	ltr	40000000	3000000	43000000
+prs-af	prs-AF	دری - افغانستان	Dari - Afghanistan		prs	Arab	AF	rtl	12000000	6000000	18000000
 ps-001	ps-001	پښتو	Pashto	ps	pus	Arab	001	rtl	40000000	10000000	50000000
+ps-af	ps-AF	پښتو - افغانستان	Pashto - Afghanistan	ps	pus	Arab	AF	rtl	17000000	5000000	22000000
 pt-001	pt-001	Português	Portuguese	pt	por	Latn	001	ltr	230000000	30000000	260000000
 pt-br	pt-BR	Português - O Brasil	Portuguese - Brazil	pt	por	Latn	BR	ltr	203000000	3000000	206000000
 pt-pt	pt-PT	Português - Portugal	Portuguese - Portugal	pt	por	Latn	PT	ltr	10000000	500000	10500000
+quz-bo	quz-BO	Runasimi - Bolivia	Quechua - Bolivia		quz	Latn	BO	ltr	1800000	200000	2000000
+quz-ec	quz-EC	Runashimi - Ecuador	Quechua - Ecuador		quz	Latn	EC	ltr	500000	100000	600000
+quz-pe	quz-PE	Runasimi - Perú	Quechua - Peru		quz	Latn	PE	ltr	3800000	300000	4100000
+rm-ch	rm-CH	Rumantsch - Svizra	Romansh - Switzerland	rm	roh	Latn	CH	ltr	40000	20000	60000
 ro-001	ro-001	Română	Romanian	ro	ron	Latn	001	ltr	24000000	4000000	28000000
+ro-ro	ro-RO	Română - România	Romanian - Romania	ro	ron	Latn	RO	ltr	19000000	1500000	20500000
 ru-001	ru-001	Русский	Russian	ru	rus	Cyrl	001	ltr	150000000	105000000	255000000
 ru-ru	ru-RU	Русский - Россия	Russian - Russia	ru	rus	Cyrl	RU	ltr	118000000	24000000	142000000
 rw-001	rw-001	Ikinyarwanda	Kinyarwanda	rw	kin	Latn	001	ltr	15000000	3000000	18000000
+rw-rw	rw-RW	Ikinyarwanda - Rwanda	Kinyarwanda - Rwanda	rw	kin	Latn	RW	ltr	15000000	3000000	18000000
 sa-001	sa-001	संस्कृतम्	Sanskrit	sa	san	Deva	001	ltr	20000	5000000	5020000
+sa-in	sa-IN	संस्कृतम् - भारतम्	Sanskrit - India	sa	san	Deva	IN	ltr	20000	5000000	5020000
+sah-ru	sah-RU	Саха тыла - Россия	Sakha - Russia		sah	Cyrl	RU	ltr	450000	100000	550000
 sd-001	sd-001	سنڌي	Sindhi	sd	snd	Arab	001	rtl	35000000	5000000	40000000
+se-fi	se-FI	Davvisámegiella - Suoma	Northern Sami - Finland	se	sme	Latn	FI	ltr	2000	1000	3000
+se-no	se-NO	Davvisámegiella - Norga	Northern Sami - Norway	se	sme	Latn	NO	ltr	15000	5000	20000
+se-se	se-SE	Davvisámegiella - Ruoŧŧa	Northern Sami - Sweden	se	sme	Latn	SE	ltr	5000	2000	7000
 si-001	si-001	සිංහල	Sinhala	si	sin	Sinh	001	ltr	18000000	2000000	20000000
+si-lk	si-LK	සිංහල - ශ්‍රී ලංකාව	Sinhala - Sri Lanka	si	sin	Sinh	LK	ltr	18000000	2000000	20000000
 sk-001	sk-001	Slovenčina	Slovak	sk	slk	Latn	001	ltr	5000000	1000000	6000000
+sk-sk	sk-SK	Slovenčina - Slovensko	Slovak - Slovakia	sk	slk	Latn	SK	ltr	5000000	1000000	6000000
 sl-001	sl-001	Slovenščina	Slovenian	sl	slv	Latn	001	ltr	2500000	300000	2800000
+sl-si	sl-SI	Slovenščina - Slovenija	Slovenian - Slovenia	sl	slv	Latn	SI	ltr	2500000	300000	2800000
 sm-001	sm-001	Gagana Sāmoa	Samoan	sm	smo	Latn	001	ltr	450000	60000	510000
+sma-no	sma-NO	Åarjelsaemien gïele - Nöörje	Southern Sami - Norway		sma	Latn	NO	ltr	300	200	500
+sma-se	sma-SE	Åarjelsaemien gïele - Sveerje	Southern Sami - Sweden		sma	Latn	SE	ltr	300	200	500
+smj-no	smj-NO	Julevsámegiella - Vuodna	Lule Sami - Norway		smj	Latn	NO	ltr	500	300	800
+smj-se	smj-SE	Julevsámegiella - Svierik	Lule Sami - Sweden		smj	Latn	SE	ltr	1500	500	2000
+smn-fi	smn-FI	Anarâškielâ - Suomâ	Inari Sami - Finland		smn	Latn	FI	ltr	300	400	700
+sms-fi	sms-FI	Sääʹmǩiõll - Lääʹdd	Skolt Sami - Finland		sms	Latn	FI	ltr	300	200	500
 sn-001	sn-001	chiShona	Shona	sn	sna	Latn	001	ltr	10500000	3500000	14000000
 so-001	so-001	Soomaali	Somali	so	som	Latn	001	ltr	24000000	2000000	26000000
 sq-001	sq-001	Shqip	Albanian	sq	sqi	Latn	001	ltr	7500000	1000000	8500000
+sq-al	sq-AL	Shqip - Shqipëri	Albanian - Albania	sq	sqi	Latn	AL	ltr	2800000	200000	3000000
 sr-001	sr-001	Српски	Serbian	sr	srp	Cyrl	001	ltr	8200000	3800000	12000000
+sr-ba	sr-BA	Српски - Босна и Херцеговина	Serbian - Bosnia and Herzegovina	sr	srp	Cyrl	BA	ltr	1200000	200000	1400000
+sr-me	sr-ME	Српски - Црна Гора	Serbian - Montenegro	sr	srp	Cyrl	ME	ltr	250000	50000	300000
+sr-rs	sr-RS	Српски - Србија	Serbian - Serbia	sr	srp	Cyrl	RS	ltr	6600000	1000000	7600000
 st-001	st-001	Sesotho	Sesotho	st	sot	Latn	001	ltr	5600000	7900000	13500000
 sv-001	sv-001	Svenska	Swedish	sv	swe	Latn	001	ltr	10000000	3000000	13000000
+sv-fi	sv-FI	Svenska - Finland	Swedish - Finland	sv	swe	Latn	FI	ltr	290000	200000	490000
+sv-se	sv-SE	Svenska - Sverige	Swedish - Sweden	sv	swe	Latn	SE	ltr	8500000	2000000	10500000
 sw-001	sw-001	Kiswahili	Swahili	sw	swa	Latn	001	ltr	18000000	130000000	148000000
 sw-ke	sw-KE	Kiswahili - Kenya	Swahili - Kenya	sw	swa	Latn	KE	ltr	2000000	15000000	17000000
 sw-tz	sw-TZ	Kiswahili - Tanzania	Swahili - Tanzania	sw	swa	Latn	TZ	ltr	7000000	54000000	61000000
+syr-sy	syr-SY	ܣܘܪܝܝܐ - ܣܘܪܝܐ	Syriac - Syria		syr	Syrc	SY	rtl	15000	5000	20000
 ta-001	ta-001	தமிழ்	Tamil	ta	tam	Taml	001	ltr	79000000	7000000	86000000
+ta-in	ta-IN	தமிழ் - இந்தியா	Tamil - India	ta	tam	Taml	IN	ltr	69000000	6000000	75000000
 te-001	te-001	తెలుగు	Telugu	te	tel	Telu	001	ltr	83000000	13000000	96000000
+te-in	te-IN	తెలుగు - భారత దేశం	Telugu - India	te	tel	Telu	IN	ltr	83000000	13000000	96000000
 tg-001	tg-001	Тоҷикӣ	Tajik	tg	tgk	Cyrl	001	ltr	10500000	1500000	12000000
 th-001	th-001	ไทย	Thai	th	tha	Thai	001	ltr	27000000	44000000	71000000
+th-th	th-TH	ไทย - ไทย	Thai - Thailand	th	tha	Thai	TH	ltr	27000000	44000000	71000000
 ti-001	ti-001	ትግርኛ	Tigrinya	ti	tir	Ethi	001	ltr	9900000	1100000	11000000
 tk-001	tk-001	Türkmençe	Turkmen	tk	tuk	Latn	001	ltr	6800000	1000000	7800000
+tk-tm	tk-TM	Türkmençe - Türkmenistan	Turkmen - Turkmenistan	tk	tuk	Latn	TM	ltr	6800000	1000000	7800000
+tn-za	tn-ZA	Setswana - Aforika Borwa	Tswana - South Africa	tn	tsn	Latn	ZA	ltr	4200000	3500000	7700000
 tr-001	tr-001	Türkçe	Turkish	tr	tur	Latn	001	ltr	85000000	6000000	91000000
+tr-tr	tr-TR	Türkçe - Türkiye	Turkish - Turkey	tr	tur	Latn	TR	ltr	76000000	5000000	81000000
 tt-001	tt-001	Татар теле	Tatar	tt	tat	Cyrl	001	ltr	5300000	1200000	6500000
+tt-ru	tt-RU	Татар теле - Россия	Tatar - Russia	tt	tat	Cyrl	RU	ltr	5300000	1200000	6500000
 ug-001	ug-001	ئۇيغۇرچە	Uyghur	ug	uig	Arab	001	rtl	11000000	1500000	12500000
+ug-cn	ug-CN	ئۇيغۇرچە - جۇڭگو	Uyghur - China	ug	uig	Arab	CN	rtl	11000000	1500000	12500000
 uk-001	uk-001	Українська	Ukrainian	uk	ukr	Cyrl	001	ltr	32000000	6900000	39000000
+uk-ua	uk-UA	Українська - Україна	Ukrainian - Ukraine	uk	ukr	Cyrl	UA	ltr	29000000	5000000	34000000
 ur-001	ur-001	اردو	Urdu	ur	urd	Arab	001	rtl	78000000	230000000	308000000
 ur-pk	ur-PK	اردو - پاکستان	Urdu - Pakistan	ur	urd	Arab	PK	rtl	15000000	175000000	190000000
 uz-001	uz-001	Oʻzbekcha	Uzbek	uz	uzb	Latn	001	ltr	36000000	2000000	38000000
 vi-001	vi-001	Tiếng Việt	Vietnamese	vi	vie	Latn	001	ltr	86000000	11000000	97000000
+vi-vn	vi-VN	Tiếng Việt - Việt Nam	Vietnamese - Vietnam	vi	vie	Latn	VN	ltr	76000000	8000000	84000000
+wo-sn	wo-SN	Wolof - Senegaal	Wolof - Senegal	wo	wol	Latn	SN	ltr	5500000	5000000	10500000
 xh-001	xh-001	isiXhosa	Xhosa	xh	xho	Latn	001	ltr	8200000	11800000	20000000
+xh-za	xh-ZA	isiXhosa - uMzantsi Afrika	Xhosa - South Africa	xh	xho	Latn	ZA	ltr	8200000	11800000	20000000
 yi-001	yi-001	ייִדיש	Yiddish	yi	yid	Hebr	001	rtl	600000	400000	1000000
 yo-001	yo-001	Yorùbá	Yoruba	yo	yor	Latn	001	ltr	48000000	2000000	50000000
+yo-ng	yo-NG	Yorùbá - Nàìjíríà	Yoruba - Nigeria	yo	yor	Latn	NG	ltr	48000000	2000000	50000000
 zh-001	zh-001	普通话	Chinese	zh	cmn	Hans	001	ltr	941000000	260000000	1201000000
 zh-cn	zh-CN	简体中文 - 中国	Chinese - Simplified, China	zh	cmn	Hans	CN	ltr	900000000	238000000	1138000000
 zh-hk	zh-HK	繁體中文 - 香港	Chinese - Traditional, Hong Kong	zh	cmn	Hant	HK	ltr	6600000	410000	7000000
+zh-mo	zh-MO	繁體中文 - 澳門	Chinese - Traditional, Macao	zh	cmn	Hant	MO	ltr	400000	80000	480000
+zh-sg	zh-SG	简体中文 - 新加坡	Chinese - Simplified, Singapore	zh	cmn	Hans	SG	ltr	1200000	1600000	2800000
 zh-tw	zh-TW	繁體中文 - 台灣	Chinese - Traditional, Taiwan	zh	cmn	Hant	TW	ltr	14000000	6600000	21000000
 zu-001	zu-001	isiZulu	Zulu	zu	zul	Latn	001	ltr	12000000	16000000	28000000
+zu-za	zu-ZA	isiZulu - iNingizimu Afrika	Zulu - South Africa	zu	zul	Latn	ZA	ltr	12000000	16000000	28000000
