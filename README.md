@@ -32,10 +32,10 @@ Each row is one locale. Each file has 767 columns in this order.
 
 For example some of the locale codes for one of the IANA time zones:
 
-| Locale code | Amarica/New York          |
+| Locale code | America/New_York           |
 | ----------- | ------------------------- |
-| en-us       | Amarica/New York          |
-| ee-es       | Estados Unidos/Nueva York |
+| en-us       | United States/New York   |
+| es-es       | Estados Unidos/Nueva York |
 | hi-in       | संयुक्त राज्य/न्यूयॉर्क   |
 | zh-cn       | 美国/纽约                 |
 
