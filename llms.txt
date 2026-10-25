@@ -1,0 +1,8 @@
+# Locales
+
+> Table of 305 locales with metadata, language names (endonym and exonyms), and translated IANA time zone names, from Unicode CLDR 49.0.0.
+
+- [README.md](README.md): column definitions and data sources.
+- [locales.tsv](locales.tsv): source of truth. 767 tab-separated columns, one row per locale, keyed by `lowercase_slug`.
+- [locales.csv](locales.csv): same data as CSV.
+- [locales.json](locales.json): same data as a JSON array of objects; empty cells are null.
