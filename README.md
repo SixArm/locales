@@ -12,23 +12,34 @@ Each row is one locale. Each file has 767 columns in this order.
 
 ## Metadata columns (11)
 
-| Column | Meaning | Example |
-|---|---|---|
-| `lowercase_slug` | Lowercase locale identifier, unique per row | `cy-gb` |
-| `bcp47` | BCP 47 language tag | `cy-GB` |
-| `iso639_1` | ISO 639-1 language code | `cy` |
-| `iso639_3` | ISO 639-3 language code | `cym` |
-| `script` | ISO 15924 script | `Latn` |
-| `region` | ISO 3166-1 alpha-2 or UN M.49 region (`001` is world) | `GB` |
-| `direction` | Text direction, `ltr` or `rtl` | `ltr` |
-| `L1` | Estimated first-language speakers | |
-| `L2` | Estimated second-language speakers | |
-| `L1+L2` | Sum of `L1` and `L2` | |
-| `endonym` | The locale's name in its own language | |
+| Column           | Meaning                                               | Example |
+| ---------------- | ----------------------------------------------------- | ------- |
+| `lowercase_slug` | Lowercase locale identifier, unique per row           | `cy-gb` |
+| `bcp47`          | BCP 47 language tag                                   | `cy-GB` |
+| `iso639_1`       | ISO 639-1 language code                               | `cy`    |
+| `iso639_3`       | ISO 639-3 language code                               | `cym`   |
+| `script`         | ISO 15924 script                                      | `Latn`  |
+| `region`         | ISO 3166-1 alpha-2 or UN M.49 region (`001` is world) | `GB`    |
+| `direction`      | Text direction, `ltr` or `rtl`                        | `ltr`   |
+| `L1`             | Estimated first-language speakers                     |         |
+| `L2`             | Estimated second-language speakers                    |         |
+| `L1+L2`          | Sum of `L1` and `L2`                                  |         |
+| `endonym`        | The locale's name in its own language                 |         |
 
 ## Exonym columns (305)
 
-`exonym-<slug>` holds the locale's name as written in the locale `<slug>`. For example, `exonym-fr-001` is the name in French. Some cells are empty where no translation is available.
+`exonym-<slug>` holds the locale's name as written in the locale `<slug>`.
+
+For example some of the locale codes for one of the IANA time zones:
+
+| Locale code | Amarica/New York          |
+| ----------- | ------------------------- |
+| en-us       | Amarica/New York          |
+| ee-es       | Estados Unidos/Nueva York |
+| hi-in       | संयुक्त राज्य/न्यूयॉर्क   |
+| zh-cn       | 美国/纽约                 |
+
+Some cells are empty where no translation is available.
 
 ## Time zone columns (451)
 
