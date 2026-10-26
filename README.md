@@ -8,9 +8,9 @@ The same data is published in three formats:
 - `locales.csv`: comma-separated values, converted from the TSV.
 - `locales.json`: an array of objects, converted from the CSV. Empty cells are `null`, and `L1`, `L2`, and `L1+L2` are integers.
 
-Each row is one locale. Each file has 767 columns in this order.
+Each row is one locale. Each file has 769 columns in this order.
 
-## Metadata columns (11)
+## Metadata columns (13)
 
 | Column           | Meaning                                               | Example |
 | ---------------- | ----------------------------------------------------- | ------- |
@@ -25,6 +25,14 @@ Each row is one locale. Each file has 767 columns in this order.
 | `L2`             | Estimated second-language speakers                    |         |
 | `L1+L2`          | Sum of `L1` and `L2`                                  |         |
 | `endonym`        | The locale's name in its own language                 |         |
+| `t_language`     | The word for "language" in the locale                 | `Iaith` |
+| `t_languages`    | The word for "languages" (plural) in the locale       | `Ieithoedd` |
+
+`t_language` and `t_languages` sources:
+
+- `t_language` comes from the CLDR `codePatterns` "language" label for 270 locales. For the rest, and for `ky` and `xh`, where CLDR gives a possessive form or untranslated English, it was written by hand.
+- `t_languages` is not in CLDR, so every plural was written by hand (by Claude), matching the casing of `t_language`. Treat these as less authoritative than CLDR cells.
+- Empty cells mean no confident translation: `t_language` for `arn`, `kl`, `moh` and `sms`, and `t_languages` for those and `kok`.
 
 ## Exonym columns (305)
 
